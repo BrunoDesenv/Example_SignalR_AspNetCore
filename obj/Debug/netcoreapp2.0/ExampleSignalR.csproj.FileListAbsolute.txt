@@ -1,0 +1,11 @@
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\bin\Debug\netcoreapp2.0\ExampleSignalR.deps.json
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\bin\Debug\netcoreapp2.0\ExampleSignalR.runtimeconfig.json
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\bin\Debug\netcoreapp2.0\ExampleSignalR.runtimeconfig.dev.json
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\bin\Debug\netcoreapp2.0\ExampleSignalR.dll
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\bin\Debug\netcoreapp2.0\ExampleSignalR.pdb
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\obj\Debug\netcoreapp2.0\ExampleSignalR.csprojResolveAssemblyReference.cache
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\obj\Debug\netcoreapp2.0\ExampleSignalR.csproj.CoreCompileInputs.cache
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\obj\Debug\netcoreapp2.0\ExampleSignalR.AssemblyInfoInputs.cache
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\obj\Debug\netcoreapp2.0\ExampleSignalR.AssemblyInfo.cs
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\obj\Debug\netcoreapp2.0\ExampleSignalR.dll
+C:\Users\bruno.santos.eit\Desktop\ExampleSignalR\obj\Debug\netcoreapp2.0\ExampleSignalR.pdb
